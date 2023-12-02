@@ -43,7 +43,7 @@ const Footer = () => {
         </div>
         <div className="flex flex-col ml-20">
           <span className="font-bold text-white uppercase mb-2">Políticas</span>
-          <span className="my-2"><a href="Politicas" className="text-white text-sm hover:text-blue-300">Política de privacidad</a></span>
+          <span className="my-2"><a href="/Politicas" className="text-white text-sm hover:text-blue-300">Política de privacidad</a></span>
         </div>
         {/* Icono de flecha hacia arriba, reemplázalo con tu propio icono */}
         <div className="ml-auto">
